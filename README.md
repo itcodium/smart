@@ -1,4 +1,4 @@
-# Smart Contract Programmer 
+# Solidity 0.8
 
 https://www.youtube.com/watch?v=g_t0Td4Kr6M&list=PLO5VPQH6OWdVQwpQfw9rZ67O6Pjfo6q-p&index=2
 
