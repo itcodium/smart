@@ -2,7 +2,8 @@
 // compiler version must be greater than or equal to 0.8.13 and less than 0.9.0
 pragma solidity ^0.8.13;
 
-// Local Variables: exists when the function is excecuted e.g.; x and f
+// Local Variables: declared inside a function
+//                  not stored on the blockchain
 
 contract LocalVariables  {
     uint public i;
